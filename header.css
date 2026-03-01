@@ -1,0 +1,22 @@
+header {
+    background-color: #704646;
+    color: rgb(255, 255, 255);
+    padding: 5px;
+    text-align: center;
+}
+
+nav  {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color: beige;
+}
+nav ul {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    color: rgb(255, 255, 255);
+}
+ nav ul li a {
+    color: white;
+ }
