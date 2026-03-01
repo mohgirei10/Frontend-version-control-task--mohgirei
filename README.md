@@ -1,4 +1,4 @@
-Step by Step Process: VERSION CONTROL SYSTEM (VCS) 
+  VERSION CONTROL SYSTEM (VCS) 
 
 Phase 1: Repository Setup
 Create the Repo: Go to GitHub and create a public repo named Frontend-version-control-task-[yourname].
