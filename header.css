@@ -5,13 +5,15 @@ header {
     text-align: center;
 }
 
-nav  {
-    list-style-type: none;
+nav {
     margin: 0;
     padding: 0;
-    color: beige;
 }
 nav ul {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}nav ul {
     display: flex;
     justify-content: center;
     gap: 20px;
